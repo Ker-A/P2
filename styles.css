@@ -1,0 +1,65 @@
+.nos{
+    justify-items: center;
+    margin-top: 165px; 
+    
+}
+.card{
+    width: 336px;
+    padding: 16px 16px 20px 16px;
+    background-color: #FAFAF9;
+    border-radius: 1rem;
+
+}
+img{
+    height: 152px;
+    border-radius: 1rem;
+    
+}
+
+
+h1{
+  font-family: "Sora", serif;
+  font-optical-sizing: auto;
+  font-size: 1.125rem;
+  font-weight: weight;
+  font-style: normal;
+  color: #20293A;
+}
+p{
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-size: 0.875rem;
+    font-weight: weight;
+    font-style: normal;
+    color: #394150;
+    margin: 6px 0px 20px;
+}
+
+h6{
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-size: 0.75rem;
+    font-weight: weight;
+    font-style: normal;
+    color: #394150;
+}
+
+h2{
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-size: 0.625rem;
+    font-weight: weight;
+    font-style: normal;
+    color: #7C19EE;
+    
+}
+
+.ticket{
+    background-color: #F2EAFD;
+    border: 3rem;
+    border-radius: 6rem;
+    width: 60px;
+    padding: 1px;
+    text-align: center;
+    margin: 16px 0px;
+}
